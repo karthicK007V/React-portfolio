@@ -17,7 +17,7 @@ const Proj = () => {
         name='NETFLIX-CLONE'
          des='Netflix-clone is  builts the front-end portion of websites and web applications using the  language  ReactJS,JavaScript,HTML & CSS' 
          codelink='https://github.com/karthicK007V/Frontend-Netflix'
-          deplink="https://netflixs-clo.netlify.app/"/>
+          deplink="https://netflixss-clo.netlify.app/"/>
 
 <Cards img='https://cdn.dribbble.com/users/925716/screenshots/4531553/weather_app_background_dribbble_size_prem_gurusamy.gif'
         name='Weather-App'
